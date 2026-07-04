@@ -5,7 +5,7 @@ Course-related files for Complex Analysis, Fall 2025.
 ## Contents
 
 - `exams/final/`: final exam references.
-- `reference/`: textbooks, review outlines, and answer references.
+- `reference/`: textbooks, review outlines, and answer references for complex analysis.
 
 # 复变函数
 
@@ -14,4 +14,4 @@ Course-related files for Complex Analysis, Fall 2025.
 ## 内容
 
 - `exams/final/`：期末考试相关资料。
-- `reference/`：教材、复习提纲和参考答案等资料。
+- `reference/`：复变函数教材、复习提纲和参考答案等资料。
